@@ -43,7 +43,6 @@ The implementations in this repository rely heavily on the standard Python Data 
 * **Core Language:** Python 3
 * **Data Manipulation:** Pandas, NumPy
 * **Machine Learning Frameworks:** Scikit-Learn, SciPy
-* **Deep Learning Frameworks:** TensorFlow, Keras
 * **Data Visualization:** Matplotlib, Plotly, Seaborn
 * **Development Environment:** Jupyter Notebooks
 
